@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\prubas unitarias c#\\seminario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBA2A96-DD10-421E-96F7-9F5A4F0D720B}|Pruebas.Business\\Pruebas.Business.csproj|d:\\prubas unitarias c#\\seminario\\pruebas.business\\repositories\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBA2A96-DD10-421E-96F7-9F5A4F0D720B}|Pruebas.Business\\Pruebas.Business.csproj|solutionrelative:pruebas.business\\repositories\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBA2A96-DD10-421E-96F7-9F5A4F0D720B}|Pruebas.Business\\Pruebas.Business.csproj|d:\\prubas unitarias c#\\seminario\\pruebas.business\\repositories\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBA2A96-DD10-421E-96F7-9F5A4F0D720B}|Pruebas.Business\\Pruebas.Business.csproj|solutionrelative:pruebas.business\\repositories\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96E2EE1-A2EE-4888-BD40-6319ECC5697A}|Pruebas.Core\\Pruebas.Core.csproj|d:\\prubas unitarias c#\\seminario\\pruebas.core\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96E2EE1-A2EE-4888-BD40-6319ECC5697A}|Pruebas.Core\\Pruebas.Core.csproj|solutionrelative:pruebas.core\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96E2EE1-A2EE-4888-BD40-6319ECC5697A}|Pruebas.Core\\Pruebas.Core.csproj|d:\\prubas unitarias c#\\seminario\\pruebas.core\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96E2EE1-A2EE-4888-BD40-6319ECC5697A}|Pruebas.Core\\Pruebas.Core.csproj|solutionrelative:pruebas.core\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01DFED76-D247-461E-B439-75BD36041EFC}|WebApplication1\\WebApplication1.csproj|d:\\prubas unitarias c#\\seminario\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01DFED76-D247-461E-B439-75BD36041EFC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonaRepository.cs",
+              "DocumentMoniker": "D:\\prubas unitarias c#\\seminario\\Pruebas.Business\\Repositories\\PersonaRepository.cs",
+              "RelativeDocumentMoniker": "Pruebas.Business\\Repositories\\PersonaRepository.cs",
+              "ToolTip": "D:\\prubas unitarias c#\\seminario\\Pruebas.Business\\Repositories\\PersonaRepository.cs",
+              "RelativeToolTip": "Pruebas.Business\\Repositories\\PersonaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:56:35.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "D:\\prubas unitarias c#\\seminario\\Pruebas.Core\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "Pruebas.Core\\ResponseDto.cs",
+              "ToolTip": "D:\\prubas unitarias c#\\seminario\\Pruebas.Core\\ResponseDto.cs",
+              "RelativeToolTip": "Pruebas.Core\\ResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:51:51.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPersonaRepository.cs",
+              "DocumentMoniker": "D:\\prubas unitarias c#\\seminario\\Pruebas.Business\\Repositories\\IPersonaRepository.cs",
+              "RelativeDocumentMoniker": "Pruebas.Business\\Repositories\\IPersonaRepository.cs",
+              "ToolTip": "D:\\prubas unitarias c#\\seminario\\Pruebas.Business\\Repositories\\IPersonaRepository.cs",
+              "RelativeToolTip": "Pruebas.Business\\Repositories\\IPersonaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:50:17.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "D:\\prubas unitarias c#\\seminario\\Pruebas.Core\\Persona.cs",
+              "RelativeDocumentMoniker": "Pruebas.Core\\Persona.cs",
+              "ToolTip": "D:\\prubas unitarias c#\\seminario\\Pruebas.Core\\Persona.cs",
+              "RelativeToolTip": "Pruebas.Core\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:47:32.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\prubas unitarias c#\\seminario\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\prubas unitarias c#\\seminario\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:46:12.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
