@@ -1,0 +1,15 @@
+C:\Users\rcedeno\source\repos\PruebasUnitarias\CIC.Business\bin\Debug\net8.0\CIC.Business.deps.json
+C:\Users\rcedeno\source\repos\PruebasUnitarias\CIC.Business\bin\Debug\net8.0\CIC.Business.dll
+C:\Users\rcedeno\source\repos\PruebasUnitarias\CIC.Business\bin\Debug\net8.0\CIC.Business.pdb
+C:\Users\rcedeno\source\repos\PruebasUnitarias\CIC.Business\obj\Debug\net8.0\CIC.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rcedeno\source\repos\PruebasUnitarias\CIC.Business\obj\Debug\net8.0\CIC.Business.AssemblyInfoInputs.cache
+C:\Users\rcedeno\source\repos\PruebasUnitarias\CIC.Business\obj\Debug\net8.0\CIC.Business.AssemblyInfo.cs
+C:\Users\rcedeno\source\repos\PruebasUnitarias\CIC.Business\obj\Debug\net8.0\CIC.Business.csproj.CoreCompileInputs.cache
+C:\Users\rcedeno\source\repos\PruebasUnitarias\CIC.Business\obj\Debug\net8.0\CIC.Business.dll
+C:\Users\rcedeno\source\repos\PruebasUnitarias\CIC.Business\obj\Debug\net8.0\refint\CIC.Business.dll
+C:\Users\rcedeno\source\repos\PruebasUnitarias\CIC.Business\obj\Debug\net8.0\CIC.Business.pdb
+C:\Users\rcedeno\source\repos\PruebasUnitarias\CIC.Business\obj\Debug\net8.0\ref\CIC.Business.dll
+C:\Users\rcedeno\source\repos\PruebasUnitarias\CIC.Business\bin\Debug\net8.0\CIC.Core.dll
+C:\Users\rcedeno\source\repos\PruebasUnitarias\CIC.Business\bin\Debug\net8.0\CIC.Core.pdb
+C:\Users\rcedeno\source\repos\PruebasUnitarias\CIC.Business\obj\Debug\net8.0\CIC.Business.csproj.AssemblyReference.cache
+C:\Users\rcedeno\source\repos\PruebasUnitarias\CIC.Business\obj\Debug\net8.0\CIC.Busi.9429D933.Up2Date

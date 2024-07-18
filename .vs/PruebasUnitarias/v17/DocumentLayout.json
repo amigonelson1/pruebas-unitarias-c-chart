@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rcedeno\\source\\repos\\PruebasUnitarias\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1357DCC-8CA3-4A5E-A176-FE52FA4B4341}|CIC.Pruebas\\CIC.Pruebas.csproj|c:\\users\\rcedeno\\source\\repos\\pruebasunitarias\\cic.pruebas\\advancedmathservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1357DCC-8CA3-4A5E-A176-FE52FA4B4341}|CIC.Pruebas\\CIC.Pruebas.csproj|solutionrelative:cic.pruebas\\advancedmathservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1357DCC-8CA3-4A5E-A176-FE52FA4B4341}|CIC.Pruebas\\CIC.Pruebas.csproj|c:\\users\\rcedeno\\source\\repos\\pruebasunitarias\\cic.pruebas\\mathservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1357DCC-8CA3-4A5E-A176-FE52FA4B4341}|CIC.Pruebas\\CIC.Pruebas.csproj|solutionrelative:cic.pruebas\\mathservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0217F1-F1EE-46CC-82AF-B3B23D455560}|CIC.Business\\CIC.Business.csproj|c:\\users\\rcedeno\\source\\repos\\pruebasunitarias\\cic.business\\advancedmathservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0217F1-F1EE-46CC-82AF-B3B23D455560}|CIC.Business\\CIC.Business.csproj|solutionrelative:cic.business\\advancedmathservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0217F1-F1EE-46CC-82AF-B3B23D455560}|CIC.Business\\CIC.Business.csproj|c:\\users\\rcedeno\\source\\repos\\pruebasunitarias\\cic.business\\mathservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0217F1-F1EE-46CC-82AF-B3B23D455560}|CIC.Business\\CIC.Business.csproj|solutionrelative:cic.business\\mathservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0217F1-F1EE-46CC-82AF-B3B23D455560}|CIC.Business\\CIC.Business.csproj|c:\\users\\rcedeno\\source\\repos\\pruebasunitarias\\cic.business\\iadvancedmathservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0217F1-F1EE-46CC-82AF-B3B23D455560}|CIC.Business\\CIC.Business.csproj|solutionrelative:cic.business\\iadvancedmathservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF12A14-912A-49C4-89DC-C9165852B37C}|PruebasUnitarias\\PruebasUnitarias.csproj|c:\\users\\rcedeno\\source\\repos\\pruebasunitarias\\pruebasunitarias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF12A14-912A-49C4-89DC-C9165852B37C}|PruebasUnitarias\\PruebasUnitarias.csproj|solutionrelative:pruebasunitarias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdvancedMathServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\rcedeno\\source\\repos\\PruebasUnitarias\\CIC.Pruebas\\AdvancedMathServiceTests.cs",
+              "RelativeDocumentMoniker": "CIC.Pruebas\\AdvancedMathServiceTests.cs",
+              "ToolTip": "C:\\Users\\rcedeno\\source\\repos\\PruebasUnitarias\\CIC.Pruebas\\AdvancedMathServiceTests.cs",
+              "RelativeToolTip": "CIC.Pruebas\\AdvancedMathServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T19:06:24.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdvancedMathService.cs",
+              "DocumentMoniker": "C:\\Users\\rcedeno\\source\\repos\\PruebasUnitarias\\CIC.Business\\AdvancedMathService.cs",
+              "RelativeDocumentMoniker": "CIC.Business\\AdvancedMathService.cs",
+              "ToolTip": "C:\\Users\\rcedeno\\source\\repos\\PruebasUnitarias\\CIC.Business\\AdvancedMathService.cs",
+              "RelativeToolTip": "CIC.Business\\AdvancedMathService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:57:41.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAdvancedMathService.cs",
+              "DocumentMoniker": "C:\\Users\\rcedeno\\source\\repos\\PruebasUnitarias\\CIC.Business\\IAdvancedMathService.cs",
+              "RelativeDocumentMoniker": "CIC.Business\\IAdvancedMathService.cs",
+              "ToolTip": "C:\\Users\\rcedeno\\source\\repos\\PruebasUnitarias\\CIC.Business\\IAdvancedMathService.cs",
+              "RelativeToolTip": "CIC.Business\\IAdvancedMathService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:25:59.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\rcedeno\\source\\repos\\PruebasUnitarias\\CIC.Pruebas\\MathServiceTests.cs",
+              "RelativeDocumentMoniker": "CIC.Pruebas\\MathServiceTests.cs",
+              "ToolTip": "C:\\Users\\rcedeno\\source\\repos\\PruebasUnitarias\\CIC.Pruebas\\MathServiceTests.cs",
+              "RelativeToolTip": "CIC.Pruebas\\MathServiceTests.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowEUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T17:14:37.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MathService.cs",
+              "DocumentMoniker": "C:\\Users\\rcedeno\\source\\repos\\PruebasUnitarias\\CIC.Business\\MathService.cs",
+              "RelativeDocumentMoniker": "CIC.Business\\MathService.cs",
+              "ToolTip": "C:\\Users\\rcedeno\\source\\repos\\PruebasUnitarias\\CIC.Business\\MathService.cs",
+              "RelativeToolTip": "CIC.Business\\MathService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T15:12:50.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rcedeno\\source\\repos\\PruebasUnitarias\\PruebasUnitarias\\Program.cs",
+              "RelativeDocumentMoniker": "PruebasUnitarias\\Program.cs",
+              "ToolTip": "C:\\Users\\rcedeno\\source\\repos\\PruebasUnitarias\\PruebasUnitarias\\Program.cs",
+              "RelativeToolTip": "PruebasUnitarias\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:56:57.207Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PruebasUnitarias/1.0.0": {
+        "dependencies": {
+          "CIC.Business": "1.0.0"
+        },
+        "runtime": {
+          "PruebasUnitarias.dll": {}
+        }
+      },
+      "CIC.Business/1.0.0": {
+        "dependencies": {
+          "CIC.Core": "1.0.0"
+        },
+        "runtime": {
+          "CIC.Business.dll": {}
+        }
+      },
+      "CIC.Core/1.0.0": {
+        "runtime": {
+          "CIC.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PruebasUnitarias/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CIC.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CIC.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\rcedeno\source\repos\PruebasUnitarias\CIC.Core\bin\Debug\net8.0\CIC.Core.deps.json
+C:\Users\rcedeno\source\repos\PruebasUnitarias\CIC.Core\bin\Debug\net8.0\CIC.Core.dll
+C:\Users\rcedeno\source\repos\PruebasUnitarias\CIC.Core\bin\Debug\net8.0\CIC.Core.pdb
+C:\Users\rcedeno\source\repos\PruebasUnitarias\CIC.Core\obj\Debug\net8.0\CIC.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rcedeno\source\repos\PruebasUnitarias\CIC.Core\obj\Debug\net8.0\CIC.Core.AssemblyInfoInputs.cache
+C:\Users\rcedeno\source\repos\PruebasUnitarias\CIC.Core\obj\Debug\net8.0\CIC.Core.AssemblyInfo.cs
+C:\Users\rcedeno\source\repos\PruebasUnitarias\CIC.Core\obj\Debug\net8.0\CIC.Core.csproj.CoreCompileInputs.cache
+C:\Users\rcedeno\source\repos\PruebasUnitarias\CIC.Core\obj\Debug\net8.0\CIC.Core.dll
+C:\Users\rcedeno\source\repos\PruebasUnitarias\CIC.Core\obj\Debug\net8.0\refint\CIC.Core.dll
+C:\Users\rcedeno\source\repos\PruebasUnitarias\CIC.Core\obj\Debug\net8.0\CIC.Core.pdb
+C:\Users\rcedeno\source\repos\PruebasUnitarias\CIC.Core\obj\Debug\net8.0\ref\CIC.Core.dll
